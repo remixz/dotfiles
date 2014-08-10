@@ -1,5 +1,7 @@
 ## dotfiles
 
+![screenshot](screenshot.png)
+
 ### setup
 
 ```bash
@@ -12,4 +14,6 @@ git config --global core.excludesfile ~/.gitignore_global
 
 ### notes
 
-to ensure compatiblity with things expecting bourne-style shells, my default shell is `bash`, and then i set the login command in iterm to `/usr/local/bin/fish --login`
+to ensure compatiblity with things expecting bourne-style shells, my default shell is `bash`, and the login command in iterm is set to `/usr/local/bin/fish --login`
+
+colour scheme: [base16 ocean dark](http://chriskempson.github.io/base16/#ocean)
